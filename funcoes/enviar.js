@@ -40,7 +40,7 @@ function loop(num)
 {
     for (var i = 0; i < num; i++) 
     {
-        SendMessage("*kacio* é hetero top | *BOT DO LUCAS*");
+        SendMessage("TESTE | *BOT DO LUCAS*");
     }
 }
 /*var thiago= document.getElementsByClassName("_F7Vk selectable-text invisible-space copyable-text");
