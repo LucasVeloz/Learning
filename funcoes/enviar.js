@@ -13,7 +13,7 @@ function eventFire(el, etype)
 function SendMessage(msg) 
 {
     var oldHTML = "";
-    var test = document.getElementsByClassName("_3u328 copyable-text selectable-text");
+    var test = document.getElementsByClassName("_1awRl copyable-text selectable-text");
     if(test && test.length > 0) 
     {
         for(var x = 0; x < test.length; x++)
@@ -49,6 +49,5 @@ function ReceiveMessage(){
     var MsgList = MsgsContainer[0].children;
     for (var i = 0; i < MsgList.length; i++ ) 
     {
-
     }
 }*/
